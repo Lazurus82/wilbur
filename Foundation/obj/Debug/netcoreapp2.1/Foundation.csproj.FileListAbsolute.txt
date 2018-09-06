@@ -1,0 +1,11 @@
+C:\Foundation\bin\Debug\netcoreapp2.1\Foundation.deps.json
+C:\Foundation\bin\Debug\netcoreapp2.1\Foundation.runtimeconfig.json
+C:\Foundation\bin\Debug\netcoreapp2.1\Foundation.runtimeconfig.dev.json
+C:\Foundation\bin\Debug\netcoreapp2.1\Foundation.dll
+C:\Foundation\bin\Debug\netcoreapp2.1\Foundation.pdb
+C:\Foundation\obj\Debug\netcoreapp2.1\Foundation.csprojAssemblyReference.cache
+C:\Foundation\obj\Debug\netcoreapp2.1\Foundation.csproj.CoreCompileInputs.cache
+C:\Foundation\obj\Debug\netcoreapp2.1\Foundation.AssemblyInfoInputs.cache
+C:\Foundation\obj\Debug\netcoreapp2.1\Foundation.AssemblyInfo.cs
+C:\Foundation\obj\Debug\netcoreapp2.1\Foundation.dll
+C:\Foundation\obj\Debug\netcoreapp2.1\Foundation.pdb

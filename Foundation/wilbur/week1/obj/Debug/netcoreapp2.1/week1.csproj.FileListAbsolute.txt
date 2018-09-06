@@ -1,0 +1,11 @@
+C:\Foundation\wilbur\week1\obj\Debug\netcoreapp2.1\week1.csprojAssemblyReference.cache
+C:\Foundation\wilbur\week1\obj\Debug\netcoreapp2.1\week1.csproj.CoreCompileInputs.cache
+C:\Foundation\wilbur\week1\obj\Debug\netcoreapp2.1\week1.AssemblyInfoInputs.cache
+C:\Foundation\wilbur\week1\obj\Debug\netcoreapp2.1\week1.AssemblyInfo.cs
+C:\Foundation\wilbur\week1\bin\Debug\netcoreapp2.1\week1.deps.json
+C:\Foundation\wilbur\week1\bin\Debug\netcoreapp2.1\week1.runtimeconfig.json
+C:\Foundation\wilbur\week1\bin\Debug\netcoreapp2.1\week1.runtimeconfig.dev.json
+C:\Foundation\wilbur\week1\bin\Debug\netcoreapp2.1\week1.dll
+C:\Foundation\wilbur\week1\bin\Debug\netcoreapp2.1\week1.pdb
+C:\Foundation\wilbur\week1\obj\Debug\netcoreapp2.1\week1.dll
+C:\Foundation\wilbur\week1\obj\Debug\netcoreapp2.1\week1.pdb
