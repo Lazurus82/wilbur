@@ -4,14 +4,14 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace SoloLearn
+namespace First10Numbers
 {
     class Program
     {
         static void Main(string[] args)
         {
             int num = 1;
-            while(num < 11) 
+            while (num < 11)
             {
                 Console.WriteLine(num);
                 num++;
