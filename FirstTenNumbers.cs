@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace First10Numbers
 {
-    class Program
+    class Numbers
     {
         static void Main(string[] args)
         {
